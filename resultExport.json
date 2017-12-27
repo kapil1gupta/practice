@@ -1,0 +1,6 @@
+{"_id":{"$oid":"59e84995758f6cdc1eb6ea30"},"cust_id":"1001","cust_name":"ravi","status":"Confirmed","amount":100}
+{"_id":{"$oid":"59e84995758f6cdc1eb6ea31"},"cust_id":"1002","cust_name":"kishan","status":"Cancel","amount":200}
+{"_id":{"$oid":"59e84995758f6cdc1eb6ea32"},"cust_id":"1003","cust_name":"ajay","status":"InProgress","amount":300}
+{"_id":{"$oid":"59e84995758f6cdc1eb6ea33"},"cust_id":"1004","cust_name":"rahul","status":"SendToSupplier","amount":400}
+{"_id":{"$oid":"59e84995758f6cdc1eb6ea34"},"cust_id":"1005","cust_name":"sagar","status":"Confirmed","amount":500}
+{"_id":{"$oid":"59e9bab3407d6b0c2ca51313"},"cust_id":"1005","cust_name":"arahul","status":"SendToSupplier","amount":400}
